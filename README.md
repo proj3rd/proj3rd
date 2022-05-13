@@ -5,9 +5,11 @@ Project for the 3rd Generation Partnership Project (3GPP).
 ## Active projects
 
 - [asn3rd]: ASN.1 utilities, especially targeted 3GPP.
+- [doc3rd]: MS Word utilities, especially targeted 3GPP.
 - [Project 3rd]: Web-based service providing Project 3rd's features.
 
 [asn3rd]: https://github.com/proj3rd/asn3rd
+[doc3rd]: https://github.com/proj3rd/doc3rd
 [Project 3rd]: https://proj3rd.github.io
 
 ## Archived projcets
