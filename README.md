@@ -7,16 +7,21 @@ Project for the 3rd Generation Partnership Project (3GPP).
 ### Libraries
 
 - [asn3rd]: ASN.1 utilities, especially targeted 3GPP.
+- [doc3rd]: MS Word utilities, especially targeted 3GPP.
+- [tabular3rd] 3GPP RAN3 tabular specification utilities.
 
 ### CLIs
 
 - [extract-asn1]: ASN.1 extractor CLI.
-- [tabular3rd] 3GPP RAN3 tabular specification utilities.
-- [doc3rd]: MS Word utilities, especially targeted 3GPP.
+- [serialize-ran3-tabular]: 3GPP RAN3 tabular serializer.
+
+### Web services
+
 - [Project 3rd]: Web-based service providing Project 3rd's features.
 
 [asn3rd]: https://github.com/proj3rd/asn3rd
 [extract-asn1]: https://github.com/proj3rd/extract-asn1
+[serialize-ran3-tabular]: https://github.com/proj3rd/serialize-ran3-tabular
 [tabular3rd]: https://github.com/proj3rd/tabular3rd
 [doc3rd]: https://github.com/proj3rd/doc3rd
 [Project 3rd]: https://proj3rd.github.io
