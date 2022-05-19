@@ -4,7 +4,12 @@ Project for the 3rd Generation Partnership Project (3GPP).
 
 ## Active projects
 
+### Libraries
+
 - [asn3rd]: ASN.1 utilities, especially targeted 3GPP.
+
+### CLIs
+
 - [extract-asn1]: ASN.1 extractor CLI.
 - [tabular3rd] 3GPP RAN3 tabular specification utilities.
 - [doc3rd]: MS Word utilities, especially targeted 3GPP.
