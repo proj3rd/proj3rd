@@ -10,6 +10,8 @@ Project for the 3rd Generation Partnership Project (3GPP).
 - [asn3rd]: ASN.1 utilities, especially targeted 3GPP.
 - [doc3rd]: MS Word utilities, especially targeted 3GPP.
 - [tabular3rd] 3GPP RAN3 tabular specification utilities.
+- [tabular3rd-lint]: Lint rules for 3GPP RAN3 tabular specifications.
+- [number3rd]: Number utilities for 3GPP.
 
 ### CLIs
 
@@ -37,3 +39,5 @@ Project for the 3rd Generation Partnership Project (3GPP).
 [tool3rd]: https://github.com/proj3rd/tool3rd
 [lib3rd]: https://github.com/proj3rd/lib3rd
 [3gpp-specs-in-json]: https://github.com/proj3rd/3gpp-specs-in-json
+[tabular3rd-lint]: https://github.com/proj3rd/tabular3rd-lint
+[number3rd]: https://github.com/proj3rd/number3rd
